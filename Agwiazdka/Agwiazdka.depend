@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666352313 source:c:\2022_zima_studia\robotyka-cw\agwiazdka\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<float.h>
+
